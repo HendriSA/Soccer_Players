@@ -1,0 +1,6 @@
+C:\Users\theam\OneDrive - Alfred State College\3rd Semester\Programming II\Test Programs\HendricksonSamuel_SoccerPlayer\HendricksonSamuel_SoccerPlayer\bin\Debug\HendricksonSamuel_SoccerPlayer.exe.config
+C:\Users\theam\OneDrive - Alfred State College\3rd Semester\Programming II\Test Programs\HendricksonSamuel_SoccerPlayer\HendricksonSamuel_SoccerPlayer\bin\Debug\HendricksonSamuel_SoccerPlayer.exe
+C:\Users\theam\OneDrive - Alfred State College\3rd Semester\Programming II\Test Programs\HendricksonSamuel_SoccerPlayer\HendricksonSamuel_SoccerPlayer\bin\Debug\HendricksonSamuel_SoccerPlayer.pdb
+C:\Users\theam\OneDrive - Alfred State College\3rd Semester\Programming II\Test Programs\HendricksonSamuel_SoccerPlayer\HendricksonSamuel_SoccerPlayer\obj\Debug\HendricksonSamuel_SoccerPlayer.csprojAssemblyReference.cache
+C:\Users\theam\OneDrive - Alfred State College\3rd Semester\Programming II\Test Programs\HendricksonSamuel_SoccerPlayer\HendricksonSamuel_SoccerPlayer\obj\Debug\HendricksonSamuel_SoccerPlayer.exe
+C:\Users\theam\OneDrive - Alfred State College\3rd Semester\Programming II\Test Programs\HendricksonSamuel_SoccerPlayer\HendricksonSamuel_SoccerPlayer\obj\Debug\HendricksonSamuel_SoccerPlayer.pdb
